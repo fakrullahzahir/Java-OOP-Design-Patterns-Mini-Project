@@ -13,4 +13,5 @@ public class CustomerUser extends User {
     public void placeOrder() {
         System.out.println(getName() + " placed an order.");
     }
+    
 }
